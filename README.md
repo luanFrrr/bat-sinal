@@ -35,3 +35,4 @@ ou
 npm run expo
 
 Isso abrirá o Expo Developer Tools no seu navegador. Você pode escanear o código QR usando o aplicativo Expo Go no seu dispositivo móvel para visualizar o aplicativo em tempo real.
+# bat-sinal
